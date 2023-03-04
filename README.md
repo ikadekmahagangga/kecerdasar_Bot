@@ -1,1 +1,1 @@
-# kecerdasar_Bot
+chatbot menggunakan logic adapter 'BestMatch' dari library ChatterBot yang memanfaatkan teknologi NLP dan AI untuk memahami konteks dan menghasilkan respon yang sesuai dengan pertanyaan pengguna. Logic adapter ini membandingkan kemiripan antara statement pengguna dengan statement yang telah dilatihkan pada chatbot dan menghasilkan respon dengan kemiripan terbesar.
