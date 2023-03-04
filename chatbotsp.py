@@ -5,7 +5,8 @@ questions = {
     "hai": ["Halo!", "Hai!", "Hai, apa kabar?"],
     "apa kabar": ["Baik-baik saja, terima kasih!", "Baik, terima kasih! Kamu sendiri?", "Lumayan, terima kasih!"],
     "siapa nama kamu": ["Nama saya Chatbot!", "Saya disebut Chatbot!"],
-    "bye": ["Sampai jumpa!", "Dadah!", "Bye!"]
+    "bye": ["Sampai jumpa!", "Dadah!", "Bye!"],
+    "mau gak jadi pacarku ?": ["maaf kamu terlalu baik untukku ", "maaf kamu terlalu ganteng ", "maaf kamu kurang ganteng "],
 }
 
 # fungsi untuk merespon input pengguna
